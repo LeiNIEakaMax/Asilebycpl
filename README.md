@@ -1,7 +1,7 @@
 
-  # Photo Collector
+  # asile by cpl
 
-  This is a code bundle for Photo Collection Dashboard. The original project is available at https://www.figma.com/design/e9OdatCJK0PItoOQWitZ5e/Design-Collection-Dashboard.
+  This is a code bundle for asile by cpl. The original project is available at https://www.figma.com/design/e9OdatCJK0PItoOQWitZ5e/asile-by-cpl.
 
   ## Running the code
 
